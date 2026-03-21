@@ -28,8 +28,6 @@ This project focuses on analyzing Amazon sales data to uncover meaningful insigh
 - Power BI dashboard
 - README file
 
-##  Dashboard Preview
-(Add your dashboard screenshot here)
 
-## 🚀 Conclusion
-This project demonstrates how data analysis tools can be used to extract valuable business insights and support decision-making.
+
+
